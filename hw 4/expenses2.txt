@@ -1,0 +1,29 @@
+Amount:Category:Date:Description
+11.25:Supp:20180722:tape dispenser
+179.01:Entr:20180722:DEF client dinner
+63.00:Trav:20180722:cab back to office
+383.75:Trav:20180723:flight to DC, to visit DEF Corp.
+55.00:Trav:20180723:cab to XYZ Corp., Chicago, IL
+23.25:Meal:20180723:dinner at O'Hare
+388.47:Supp:20180724:toner and paper
+242.12:Entr:20180726:host dinner with DEF clients
+303.94:Util:20180727:Peoples Gas
+129.47:Util:20180727:Verizon Wireless
+33.75:Educ:20180727:Online Python course
+49.86:Supp:20180728:Headset
+8.24:Meal:20180802:Dunkin Donuts, drive to DEF
+68.27:Meal:20180802:dinner, Tavern64
+39.23:Meal:20180803:dinner, Uncle Julio's
+114.00:Trav:20180804:mileage, drive to/from DEF
+25.00:Trav:20180804:tolls
+773.43:Trav:20180804:Hampton Inn
+69.49:Supp:20180806:USB/Ethernet/HDMI hub
+272.06:Util:20180808:Duquesne Light
+35.50:Educ:20180809:Online Java course
+221.89:Supp:20180809:black toner, HP 304A, 2-pack
+121.50:Trav:20180817:mileage, drive to/from DEF
+76.27:Entr:20180817:lunch at Clyde's with Fred and Gina, DEF
+25.00:Trav:20180817:tolls
+129.56:Util:20180819:Verizon Wireless
+221.83:Util:20180823:Peoples Gas
+12.25:Supp:20180825:Sharpie pens
